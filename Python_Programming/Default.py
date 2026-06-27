@@ -1,14 +1,16 @@
-def Area(Radius,PI):
+def Area(Radius,PI=3.14):
     Ans=PI*Radius*Radius
     return Ans
 
 
 def main():
-    Ret=Area(10.5,3.14)
+    Ret=Area(10.5)
     print("Area of the Circle is :",Ret)
 
-    Ret=Area(13.6,7.14)
+    Ret=Area(10.5,7.12)
     print("Area of the Circle is :",Ret)
+
+   
 
 
 
