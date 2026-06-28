@@ -9,6 +9,7 @@ def main():
     print("Input FData is :",Data)
 
     FData=list(filter(CheckEven,Data))
+    print("Fdata after filter",FData)
     
     MData=list(map(Increment,FData))
 
