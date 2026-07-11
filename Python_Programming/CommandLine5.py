@@ -1,4 +1,4 @@
-import sys
+    import sys
 if(len(sys.argv)==3):
     No1 = int(sys.argv[1])
     No2 = int(sys.argv[2])
