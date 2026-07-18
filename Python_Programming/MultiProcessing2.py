@@ -31,7 +31,7 @@ def main():
     start_time=time.perf_counter()
     
     tobj1=multiprocessing.Process(target=SumEven,args=(100,))
-    tobj2=multiprocessing.Process(target=SumOdd, args=(100,))
+    tobj2=multiprocessing.Process(target=SumO   dd, args=(100,))
 
     tobj1.start()
     tobj2.start()
