@@ -4,7 +4,7 @@ def main():
 
     Border="-"*40
     print(Border)
-    print("     Automation Script             ")
+    print("        Automation Script             ")
     print(Border)
 
     if(len(sys.argv)==2):

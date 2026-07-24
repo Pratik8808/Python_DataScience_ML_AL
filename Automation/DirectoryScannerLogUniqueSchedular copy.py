@@ -9,6 +9,7 @@ import schedule
 
 
 def DirectoryScanner(DirectoryPath):
+    
 
     Border="-"*40
     timestamp=time.ctime()
@@ -46,7 +47,7 @@ def main():
     print("     Automation Script             ")
     print(Border)
 
-    if(len(sys.argv)==2):
+    if(len(sys.argv)==3):
         if(sys.argv[1]=="--h" or sys.argv[1]=="--H"):
             print("This Automation Script is Used  to Travel Directory")
             print("For Better Usage Please  Check --u flag")

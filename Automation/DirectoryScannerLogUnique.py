@@ -4,6 +4,7 @@ import os
 import time
 
 def DirectoryScanner(DirectoryPath):
+    print("This Args arugment ",DirectoryPath)
     timestamp=time.ctime()
     LogFileName="Marvellous%s.log"%(timestamp)
     LogFileName=LogFileName.replace(" ","_")
@@ -34,6 +35,7 @@ def main():
     print(Border)
 
     if(len(sys.argv)==2):
+        print("This from main",sys.argv[1])
         if(sys.argv[1]=="--h" or sys.argv[1]=="--H"):
             print("This Automation Script is Used  to Travel Directory")
             print("For Better Usage Please  Check --u flag")
@@ -43,8 +45,8 @@ def main():
             print("Python fileName.py DirectoryName")
             print("Directory Name Shoud Absoulte Path")
         else:
-            schedule.every(10).seconds.do(Display)
-            # DirectoryScanner(sys.argv[1])
+            # schedule.every(10).seconds.do(Display)
+            DirectoryScanner(sys.argv[1])
          
 
   

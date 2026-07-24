@@ -6,7 +6,7 @@ def DirectoryScanner(DirectoryPath):
     print("Files form  Directory are :")
     for foldername,SubFolderName,FileName in os.walk(DirectoryPath):
         for fname in FileName:
-            print(fname)
+            print(fname+"\n")
 
 def main():
 
