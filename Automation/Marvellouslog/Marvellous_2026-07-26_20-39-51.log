@@ -1,0 +1,3325 @@
+------------------------------------------------------------
+------------------Marvellous Platform Survillence System --------------
+Log file is Created at 2026-07-26_20-39-51
+-----------System Report --------------------------
+Number of active Cpu cores : 12 
+CPU usaage : 1.5 %
+ ------------------------------------------------------------
+Ram Percentage : 60.3 %
+ Total Ram Avaiable : 15919075328 
+ ------------------------------------------------------------
+Network Usage report
+Send : 101.05 MB
+Receive : 187.93 MB
+------------------------------------------------------------
+------------------------------------------------------------
+PID :1
+Name :systemd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.11
+------------------------------------------------------------
+PID :2
+Name :kthreadd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3
+Name :pool_workqueue_release
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :4
+Name :kworker/R-rcu_gp
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :5
+Name :kworker/R-sync_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :6
+Name :kworker/R-kvfree_rcu_reclaim
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :7
+Name :kworker/R-slub_flushwq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :8
+Name :kworker/R-netns
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :10
+Name :kworker/0:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :13
+Name :kworker/R-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :14
+Name :ksoftirqd/0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :15
+Name :rcu_preempt
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :16
+Name :rcu_exp_par_gp_kthread_worker/0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :17
+Name :rcu_exp_gp_kthread_worker
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :18
+Name :migration/0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :19
+Name :idle_inject/0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :20
+Name :cpuhp/0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :21
+Name :cpuhp/2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :22
+Name :idle_inject/2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :23
+Name :migration/2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :24
+Name :ksoftirqd/2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :26
+Name :kworker/2:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :27
+Name :cpuhp/4
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :28
+Name :idle_inject/4
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :29
+Name :migration/4
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :30
+Name :ksoftirqd/4
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :32
+Name :kworker/4:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :33
+Name :cpuhp/6
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :34
+Name :idle_inject/6
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :35
+Name :migration/6
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :36
+Name :ksoftirqd/6
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :38
+Name :kworker/6:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39
+Name :cpuhp/8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40
+Name :idle_inject/8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :41
+Name :migration/8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :42
+Name :ksoftirqd/8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :44
+Name :kworker/8:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :45
+Name :cpuhp/9
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :46
+Name :idle_inject/9
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :47
+Name :migration/9
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :48
+Name :ksoftirqd/9
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :50
+Name :kworker/9:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :51
+Name :cpuhp/10
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :52
+Name :idle_inject/10
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :53
+Name :migration/10
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :54
+Name :ksoftirqd/10
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :56
+Name :kworker/10:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :57
+Name :cpuhp/11
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :58
+Name :idle_inject/11
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :59
+Name :migration/11
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :60
+Name :ksoftirqd/11
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :62
+Name :kworker/11:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :63
+Name :cpuhp/1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :64
+Name :idle_inject/1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :65
+Name :migration/1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :66
+Name :ksoftirqd/1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :68
+Name :kworker/1:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :69
+Name :cpuhp/3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :70
+Name :idle_inject/3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :71
+Name :migration/3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :72
+Name :ksoftirqd/3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :74
+Name :kworker/3:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :75
+Name :cpuhp/5
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :76
+Name :idle_inject/5
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :77
+Name :migration/5
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :78
+Name :ksoftirqd/5
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :80
+Name :kworker/5:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :81
+Name :cpuhp/7
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :82
+Name :idle_inject/7
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :83
+Name :migration/7
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :84
+Name :ksoftirqd/7
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :86
+Name :kworker/7:0H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :87
+Name :kdevtmpfs
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :88
+Name :kworker/R-inet_frag_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :89
+Name :rcu_tasks_kthread
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :90
+Name :rcu_tasks_rude_kthread
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :91
+Name :rcu_tasks_trace_kthread
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :92
+Name :kauditd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :93
+Name :khungtaskd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :94
+Name :oom_reaper
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :97
+Name :kworker/R-writeback
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :98
+Name :kcompactd0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :99
+Name :ksmd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :100
+Name :khugepaged
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :101
+Name :kworker/R-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :102
+Name :kworker/R-blkcg_punt_bio
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :103
+Name :kworker/R-kintegrityd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :104
+Name :irq/9-acpi
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :109
+Name :kworker/R-tpm_dev_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :110
+Name :kworker/R-ata_sff
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :111
+Name :kworker/R-md
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :112
+Name :kworker/R-md_bitmap
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :113
+Name :kworker/R-edac-poller
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :114
+Name :kworker/R-devfreq_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :115
+Name :watchdogd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :116
+Name :kworker/R-quota_events_unbound
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :117
+Name :kworker/10:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :120
+Name :kswapd0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :121
+Name :ecryptfs-kthread
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :122
+Name :kworker/R-kthrotld
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :123
+Name :irq/122-aerdrv
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :124
+Name :irq/123-aerdrv
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :125
+Name :irq/124-aerdrv
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :126
+Name :kworker/R-acpi_thermal_pm
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :128
+Name :hwrng
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :129
+Name :kworker/R-hfi-updates
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :130
+Name :kworker/R-mld
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :131
+Name :kworker/R-ipv6_addrconf
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :132
+Name :kworker/R-kstrp
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :150
+Name :kworker/R-charger_manager
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :152
+Name :kworker/0:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :177
+Name :kworker/1:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :180
+Name :kworker/11:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :184
+Name :kworker/4:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :208
+Name :kworker/7:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :209
+Name :kworker/2:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :210
+Name :kworker/5:1H-events_highpri
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :211
+Name :kworker/6:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :212
+Name :kworker/8:1H-i915_cleanup
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :231
+Name :kworker/3:1H-kblockd
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :232
+Name :kworker/9:1H-i915_cleanup
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :302
+Name :irq/153-MSNB0001:00
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :304
+Name :irq/154-aerdrv
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :306
+Name :scsi_eh_0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :307
+Name :kworker/R-scsi_tmf_0
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :308
+Name :scsi_eh_1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :309
+Name :kworker/R-scsi_tmf_1
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :310
+Name :kworker/R-nvme-wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :311
+Name :kworker/R-nvme-reset-wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :312
+Name :kworker/R-nvme-delete-wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :313
+Name :kworker/R-nvme-auth-wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :371
+Name :jbd2/nvme0n1p7-8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :372
+Name :kworker/R-ext4-rsv-conversion
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :429
+Name :systemd-journald
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.29
+------------------------------------------------------------
+PID :464
+Name :systemd-oomd
+User Name :systemd-oom
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :465
+Name :systemd-timesyncd
+User Name :systemd-timesync
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :472
+Name :systemd-udevd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :499
+Name :systemd-resolved
+User Name :systemd-resolve
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.10
+------------------------------------------------------------
+PID :503
+Name :psimon
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :670
+Name :kworker/R-cfg80211
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :822
+Name :irq/171-iwlwifi:default_queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :823
+Name :irq/172-iwlwifi:queue_1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :824
+Name :irq/173-iwlwifi:queue_2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :825
+Name :irq/174-iwlwifi:queue_3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :826
+Name :irq/175-iwlwifi:queue_4
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :827
+Name :irq/176-iwlwifi:queue_5
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :828
+Name :irq/177-iwlwifi:queue_6
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :829
+Name :irq/178-iwlwifi:queue_7
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :830
+Name :irq/179-iwlwifi:queue_8
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :831
+Name :irq/180-iwlwifi:queue_9
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :832
+Name :irq/181-iwlwifi:queue_10
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :833
+Name :irq/182-iwlwifi:queue_11
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :834
+Name :irq/183-iwlwifi:queue_12
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :835
+Name :irq/184-iwlwifi:exception
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :865
+Name :kworker/R-ttm
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :884
+Name :irq/16-processor_thermal_device_pci
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :887
+Name :card1-crtc0
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :888
+Name :card1-crtc1
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :889
+Name :card1-crtc2
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :890
+Name :card1-crtc3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :895
+Name :nv_queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :896
+Name :nv_queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :897
+Name :nv_open_q
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :911
+Name :nvidia-modeset/kthread_q
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :912
+Name :nvidia-modeset/deferred_close_kthread_q
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :919
+Name :irq/186-nvidia
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :921
+Name :nv_queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :1333
+Name :irq/187-AudioDSP
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :1684
+Name :avahi-daemon
+User Name :avahi
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.03
+------------------------------------------------------------
+PID :1685
+Name :bluetoothd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :1686
+Name :dbus-daemon
+User Name :messagebus
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :1700
+Name :nvidia-powerd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :1704
+Name :polkitd
+User Name :polkitd
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :1715
+Name :snapd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.30
+------------------------------------------------------------
+PID :1719
+Name :accounts-daemon
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :1721
+Name :cron
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.02
+------------------------------------------------------------
+PID :1725
+Name :switcheroo-control
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :1728
+Name :systemd-logind
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :1730
+Name :thermald
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :1732
+Name :udisksd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.10
+------------------------------------------------------------
+PID :1796
+Name :avahi-daemon
+User Name :avahi
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :1842
+Name :rsyslogd
+User Name :syslog
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :1850
+Name :wpa_supplicant
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.09
+------------------------------------------------------------
+PID :1906
+Name :NetworkManager
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.14
+------------------------------------------------------------
+PID :1956
+Name :ModemManager
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.09
+------------------------------------------------------------
+PID :1962
+Name :krfcommd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :2139
+Name :UVM global queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :2140
+Name :UVM deferred release queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :2142
+Name :UVM Tools Event Queue
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :2207
+Name :upowerd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :2209
+Name :nvidia-persistenced
+User Name :nvidia-persistenced
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.02
+------------------------------------------------------------
+PID :2219
+Name :cupsd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :2225
+Name :run-cups-browse
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :2226
+Name :run-cupsd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :2234
+Name :unattended-upgr
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.19
+------------------------------------------------------------
+PID :2259
+Name :gdm3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :2292
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.20
+------------------------------------------------------------
+PID :2299
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :2300
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :2304
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :2305
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :2306
+Name :postgres
+User Name :postgres
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :2383
+Name :rtkit-daemon
+User Name :rtkit
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.02
+------------------------------------------------------------
+PID :2754
+Name :cupsd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :2755
+Name :cups-proxyd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :2779
+Name :colord
+User Name :colord
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.10
+------------------------------------------------------------
+PID :2964
+Name :run-cups-browse
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :3162
+Name :cups-browsed
+User Name :cups-browsed
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.14
+------------------------------------------------------------
+PID :3163
+Name :ollama
+User Name :ollama
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.23
+------------------------------------------------------------
+PID :3169
+Name :power-profiles-daemon
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3337
+Name :gdm-session-worker
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :3349
+Name :systemd
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.09
+------------------------------------------------------------
+PID :3351
+Name :(sd-pam)
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.03
+------------------------------------------------------------
+PID :3371
+Name :dbus-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3372
+Name :pipewire
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.11
+------------------------------------------------------------
+PID :3374
+Name :pipewire
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3377
+Name :gnome-keyring-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :3382
+Name :mpris-proxy
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.03
+------------------------------------------------------------
+PID :3384
+Name :wireplumber
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.13
+------------------------------------------------------------
+PID :3390
+Name :pipewire-pulse
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.13
+------------------------------------------------------------
+PID :3459
+Name :xdg-document-portal
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3463
+Name :xdg-permission-store
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3470
+Name :fusermount3
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :3478
+Name :gdm-wayland-session
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3491
+Name :gnome-session-init-worker
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3563
+Name :gcr-ssh-agent
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3564
+Name :gnome-session-ctl
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3566
+Name :ssh-agent
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :3577
+Name :gvfsd
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3583
+Name :gvfsd-fuse
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3586
+Name :gnome-session-service
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3620
+Name :gnome-shell
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :2.67
+------------------------------------------------------------
+PID :3683
+Name :nvidia-drm/timeline-23
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3764
+Name :at-spi-bus-launcher
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3776
+Name :dbus-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.03
+------------------------------------------------------------
+PID :3786
+Name :at-spi2-registryd
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3807
+Name :gnome-shell-calendar-server
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.12
+------------------------------------------------------------
+PID :3815
+Name :evolution-source-registry
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.28
+------------------------------------------------------------
+PID :3826
+Name :gjs
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.20
+------------------------------------------------------------
+PID :3836
+Name :ibus-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :3839
+Name :gsd-a11y-settings
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3846
+Name :gsd-color
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3851
+Name :gsd-datetime
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :3852
+Name :gsd-housekeeping
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3854
+Name :gsd-keyboard
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3857
+Name :gsd-media-keys
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :3864
+Name :gsd-power
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :3868
+Name :gsd-print-notifications
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :3872
+Name :sh
+User Name :pratik-narule
+Status :zombie
+Status :zombie
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3873
+Name :gsd-rfkill
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3875
+Name :snap
+User Name :pratik-narule
+Status :zombie
+Status :zombie
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3879
+Name :gsd-disk-utility-notify
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3880
+Name :gsd-screensaver-proxy
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3887
+Name :ubuntu-advantag
+User Name :pratik-narule
+Status :zombie
+Status :zombie
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3890
+Name :gsd-sharing
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :3891
+Name :update-notifier
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.23
+------------------------------------------------------------
+PID :3899
+Name :gsd-smartcard
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3900
+Name :evolution-alarm-notify
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.41
+------------------------------------------------------------
+PID :3902
+Name :gsd-sound
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :3908
+Name :ubuntu-report
+User Name :pratik-narule
+Status :zombie
+Status :zombie
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3909
+Name :sh
+User Name :pratik-narule
+Status :zombie
+Status :zombie
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :3911
+Name :gsd-usb-protection
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3915
+Name :gsd-wwan
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :3937
+Name :bwrap
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :3951
+Name :bwrap
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :3972
+Name :glycin-image-rs
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :3976
+Name :goa-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.19
+------------------------------------------------------------
+PID :4005
+Name :ibus-memconf
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4013
+Name :ibus-extension-gtk3
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.24
+------------------------------------------------------------
+PID :4021
+Name :ibus-portal
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4044
+Name :gvfs-udisks2-volume-monitor
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :4052
+Name :prompting-client-daemon
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :4056
+Name :gsd-printer
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :4062
+Name :gjs
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.20
+------------------------------------------------------------
+PID :4090
+Name :localsearch-3
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.24
+------------------------------------------------------------
+PID :4100
+Name :goa-identity-service
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :4115
+Name :evolution-calendar-factory
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.16
+------------------------------------------------------------
+PID :4167
+Name :gvfs-gphoto2-volume-monitor
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4169
+Name :evolution-addressbook-factory
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.19
+------------------------------------------------------------
+PID :4179
+Name :gvfs-afc-volume-monitor
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :4198
+Name :gvfs-goa-volume-monitor
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4218
+Name :gvfs-mtp-volume-monitor
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4284
+Name :ibus-engine-simple
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4312
+Name :dconf-service
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :4330
+Name :gvfsd-trash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :4359
+Name :xdg-desktop-portal
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.13
+------------------------------------------------------------
+PID :4364
+Name :xdg-desktop-portal-gnome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.30
+------------------------------------------------------------
+PID :4462
+Name :gvfsd-metadata
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :4478
+Name :xdg-desktop-portal-gtk
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.20
+------------------------------------------------------------
+PID :4592
+Name :user-session-helper
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :4666
+Name :snapd-desktop-integration
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.25
+------------------------------------------------------------
+PID :4677
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :2.02
+------------------------------------------------------------
+PID :4691
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.32
+------------------------------------------------------------
+PID :4692
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.31
+------------------------------------------------------------
+PID :4702
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.08
+------------------------------------------------------------
+PID :4730
+Name :chrome_crashpad_handler
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.02
+------------------------------------------------------------
+PID :4748
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.38
+------------------------------------------------------------
+PID :4756
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.50
+------------------------------------------------------------
+PID :4757
+Name :Xwayland
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.77
+------------------------------------------------------------
+PID :4779
+Name :gsd-xsettings
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.11
+------------------------------------------------------------
+PID :4788
+Name :mutter-x11-frames
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.86
+------------------------------------------------------------
+PID :4806
+Name :ibus-x11
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.45
+------------------------------------------------------------
+PID :5107
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.96
+------------------------------------------------------------
+PID :5445
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :3.37
+------------------------------------------------------------
+PID :5770
+Name :gvfsd-recent
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :5771
+Name :gvfsd-network
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :5784
+Name :gvfsd-dnssd
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :5790
+Name :gvfsd-wsdd
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :5795
+Name :python3
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.20
+------------------------------------------------------------
+PID :5969
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.74
+------------------------------------------------------------
+PID :6080
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :3.99
+------------------------------------------------------------
+PID :6095
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.71
+------------------------------------------------------------
+PID :6447
+Name :pet
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :6601
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :6603
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.26
+------------------------------------------------------------
+PID :6966
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :7126
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :8.16
+------------------------------------------------------------
+PID :7148
+Name :ssh-agent
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.04
+------------------------------------------------------------
+PID :8281
+Name :gnome-terminal-server
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.50
+------------------------------------------------------------
+PID :8289
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :9212
+Name :fwupd
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.32
+------------------------------------------------------------
+PID :10780
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :3.69
+------------------------------------------------------------
+PID :10787
+Name :cat
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :10788
+Name :cat
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.05
+------------------------------------------------------------
+PID :10793
+Name :chrome_crashpad_handler
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.03
+------------------------------------------------------------
+PID :10795
+Name :chrome_crashpad_handler
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.02
+------------------------------------------------------------
+PID :10801
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.42
+------------------------------------------------------------
+PID :10802
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.42
+------------------------------------------------------------
+PID :10805
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.12
+------------------------------------------------------------
+PID :10840
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.78
+------------------------------------------------------------
+PID :10842
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.00
+------------------------------------------------------------
+PID :10854
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.40
+------------------------------------------------------------
+PID :10957
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.82
+------------------------------------------------------------
+PID :11086
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :2.44
+------------------------------------------------------------
+PID :11137
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :2.32
+------------------------------------------------------------
+PID :11152
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.81
+------------------------------------------------------------
+PID :11192
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :4.94
+------------------------------------------------------------
+PID :11276
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.57
+------------------------------------------------------------
+PID :11316
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.93
+------------------------------------------------------------
+PID :11378
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.72
+------------------------------------------------------------
+PID :11387
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.44
+------------------------------------------------------------
+PID :11398
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.56
+------------------------------------------------------------
+PID :11436
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.18
+------------------------------------------------------------
+PID :11451
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.70
+------------------------------------------------------------
+PID :11473
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.35
+------------------------------------------------------------
+PID :11503
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.70
+------------------------------------------------------------
+PID :11587
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.03
+------------------------------------------------------------
+PID :12079
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.55
+------------------------------------------------------------
+PID :13824
+Name :psimon
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :17071
+Name :dart:firmware-n
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.06
+------------------------------------------------------------
+PID :20185
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.00
+------------------------------------------------------------
+PID :21486
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.72
+------------------------------------------------------------
+PID :21496
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.09
+------------------------------------------------------------
+PID :25511
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :2.49
+------------------------------------------------------------
+PID :25573
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :3.88
+------------------------------------------------------------
+PID :25588
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.71
+------------------------------------------------------------
+PID :25773
+Name :code
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.21
+------------------------------------------------------------
+PID :25871
+Name :cpptools
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.31
+------------------------------------------------------------
+PID :26134
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.82
+------------------------------------------------------------
+PID :28289
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.75
+------------------------------------------------------------
+PID :28849
+Name :cpptools-srv
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.15
+------------------------------------------------------------
+PID :28860
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :29556
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :29858
+Name :cpptools-srv
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.15
+------------------------------------------------------------
+PID :30191
+Name :cpptools-srv
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.15
+------------------------------------------------------------
+PID :30324
+Name :irq/170-mei_me
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :30356
+Name :nvidia
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :30497
+Name :gjs
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.46
+------------------------------------------------------------
+PID :33373
+Name :bash
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.07
+------------------------------------------------------------
+PID :35580
+Name :kworker/1:2-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :37117
+Name :kworker/2:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :38091
+Name :kworker/2:2-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :38397
+Name :sleep
+User Name :root
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.01
+------------------------------------------------------------
+PID :38878
+Name :kworker/9:1-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :38894
+Name :kworker/0:1-cgroup_free
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39080
+Name :kworker/u48:0-events_unbound
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39129
+Name :kworker/8:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39243
+Name :kworker/6:2-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39290
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :1.91
+------------------------------------------------------------
+PID :39332
+Name :kworker/u48:2-events_unbound
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39425
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.68
+------------------------------------------------------------
+PID :39628
+Name :kworker/6:1-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39637
+Name :kworker/5:1-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39698
+Name :kworker/u48:1-flush-259:0
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39720
+Name :kworker/u49:0-rb_allocator
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39777
+Name :kworker/7:2-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39825
+Name :kworker/11:2-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39836
+Name :kworker/9:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :39974
+Name :kworker/4:2-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40063
+Name :kworker/u48:3-kvfree_rcu_reclaim
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40064
+Name :kworker/7:1
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40073
+Name :kworker/10:1-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40334
+Name :kworker/1:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40335
+Name :kworker/0:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40473
+Name :kworker/11:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40474
+Name :kworker/3:0-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40475
+Name :kworker/4:1-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40485
+Name :kworker/3:3-cgroup_free
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40486
+Name :kworker/u49:2-i915_flip
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40500
+Name :kworker/5:2
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40642
+Name :kworker/8:1
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40709
+Name :kworker/10:2-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40728
+Name :kworker/2:1-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40729
+Name :kworker/4:0-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40737
+Name :kworker/4:3-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40745
+Name :kworker/0:2-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40775
+Name :kworker/u49:1
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40796
+Name :chrome
+User Name :pratik-narule
+Status :sleeping
+Status :sleeping
+Cpu Usage :0.00
+Ram Usage :0.48
+------------------------------------------------------------
+PID :40839
+Name :kworker/3:1-events
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40889
+Name :kworker/1:1-mm_percpu_wq
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40894
+Name :kworker/6:0-i915-unordered
+User Name :root
+Status :idle
+Status :idle
+Cpu Usage :0.00
+Ram Usage :0.00
+------------------------------------------------------------
+PID :40902
+Name :python3
+User Name :pratik-narule
+Status :running
+Status :running
+Cpu Usage :0.00
+Ram Usage :0.11
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+-------------------------------End of the Logic -------------------------
+------------------------------------------------------------
