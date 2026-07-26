@@ -2,7 +2,7 @@ import sys
 import os
 import hashlib
 
-
+# 25 july 2026
 
 def CalculateCheckSum(FileName):
     fobj=open(FileName,"rb")
@@ -30,27 +30,26 @@ def  FindDUplicate(DirectoryName):
     
     Duplicate={}
 
-    Unique=0
-    Same=0
-
     for FolderName ,SubFolder,filename in os.walk(DirectoryName):
         for fname in filename:
             fname=os.path.join(FolderName,fname)
             CheckSUm=CalculateCheckSum(fname)
-            print(f"{fname}: {CheckSUm}")
             if CheckSUm in Duplicate:
-                Same=Same+1
+               
                 Duplicate[CheckSUm].append(fname)
             else:
-                Unique=Unique+1
+              
                 Duplicate[CheckSUm]=[fname]
-    print("Unique File Found",Unique)
-    print("Duplicate File Found",Same)
+   
+    return Duplicate
+
 
 def main():
-   FindDUplicate("Test")
+   Data=FindDUplicate("Test")
+   print(Data)
 
     
 
 if __name__=="__main__":
     main()
+

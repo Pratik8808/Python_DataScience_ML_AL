@@ -2,7 +2,7 @@ import sys
 import os
 import hashlib
 
-
+# 25 july 2026
 
 def CalculateCheckSum(FileName):
     fobj=open(FileName,"rb")
@@ -27,16 +27,34 @@ def  FindDUplicate(DirectoryName):
         print("It is not Directory\n")
         return
 
+    
+    Duplicate={}
+
     for FolderName ,SubFolder,filename in os.walk(DirectoryName):
         for fname in filename:
             fname=os.path.join(FolderName,fname)
             CheckSUm=CalculateCheckSum(fname)
-        print(f"{fname}: {CheckSUm}")
+            if CheckSUm in Duplicate:
+               
+                Duplicate[CheckSUm].append(fname)
+            else:
+              
+                Duplicate[CheckSUm]=[fname]
+   
+    return Duplicate
+
+def DeleteDuplicate(DirectoryName):
+    MyDict=FindDUplicate(DirectoryName)
+    # Result=MyDict.values()
+    Result=list(filter(lambda x:len(x)>1,MyDict.values()))
+    return Result
 
 def main():
-   FindDUplicate("Test")
+   Data=DeleteDuplicate("Test")
+   print(Data)
 
     
 
 if __name__=="__main__":
     main()
+

@@ -2,7 +2,8 @@ import sys
 import os
 import hashlib
 
-
+# 25 july 2026
+#Delete Final
 
 def CalculateCheckSum(FileName):
     fobj=open(FileName,"rb")
@@ -30,27 +31,48 @@ def  FindDUplicate(DirectoryName):
     
     Duplicate={}
 
-    Unique=0
-    Same=0
-
     for FolderName ,SubFolder,filename in os.walk(DirectoryName):
         for fname in filename:
             fname=os.path.join(FolderName,fname)
             CheckSUm=CalculateCheckSum(fname)
-            print(f"{fname}: {CheckSUm}")
             if CheckSUm in Duplicate:
-                Same=Same+1
+               
                 Duplicate[CheckSUm].append(fname)
             else:
-                Unique=Unique+1
+              
                 Duplicate[CheckSUm]=[fname]
-    print("Unique File Found",Unique)
-    print("Duplicate File Found",Same)
+   
+    return Duplicate
+
+def DeleteDuplicate(DirectoryName):
+    MyDict=FindDUplicate(DirectoryName)
+    # Result=MyDict.values()
+    Count=0
+    TotalDeleted=0
+    
+    Result=list(filter(lambda x:len(x)>1,MyDict.values()))
+
+    for value in Result:
+        for subvalue in value:
+              Count=Count+1
+              if(Count>1):
+                  os.remove(subvalue)
+                  TotalDeleted=TotalDeleted+1
+                 
+        Count=0
+    print("Total Deleted Files:",TotalDeleted)
+           
+
+  
 
 def main():
-   FindDUplicate("Test")
+   Data=DeleteDuplicate("Test")
+    
 
     
 
 if __name__=="__main__":
     main()
+
+
+
