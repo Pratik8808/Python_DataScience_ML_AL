@@ -18,6 +18,7 @@ def ProcessScan():
         print(info)
         print("-----------------------------------------")
         listprocess.append(info)
+        print(listprocess)
     return listprocess
 
 

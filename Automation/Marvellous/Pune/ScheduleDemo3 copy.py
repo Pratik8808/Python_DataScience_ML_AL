@@ -2,12 +2,12 @@ import schedule
 import time
 import datetime
 
-def Display(Message):
+def Display():
     print("Jay Ganesh....",datetime.datetime.now())
 
 def main():
     print("Automation Script started")
-    schedule.every(10).seconds.do(Display,)
+    schedule.every(1).minute.do(Display)
     while True:
          schedule.run_pending()
          time.sleep(1)
