@@ -31,6 +31,7 @@ print(df.isnull().sum())
 
 print("Class Distribution (species Count)")
 print(df["species"].value_counts())
+# df=df["species"].value_counts()
 
 print("Statistical report of DataSet :")
 print(df.describe())
