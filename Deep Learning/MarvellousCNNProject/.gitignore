@@ -1,0 +1,23 @@
+.env
+
+Deep Learning/MarvellousCNNProject/Processed_CrackDataset
+
+Deep Learning/MarvellousCNNProject/MarvellousCNN
+Deep Learning/MarvellousCNNProject
+/home/pratik-narule/Python-Data-Science/Deep Learning/MarvellousRNN/MarvellousRNN
+/home/pratik-narule/Python-Data-Science/Deep Learning/MarvellousCNNProject/CrackDataset/Positive
+Deep Learning/MarvellousCNNProject/CrackDataset
+Deep Learning/MarvellousCNNProject/CrackDataset/Negative
+/home/pratik-narule/Python-Data-Science/Deep Learning/MarvellousCNNProject/CrackDataset
+
+Deep Learning/MarvellousCNNProject/CrackDataset/
+Deep Learning/MarvellousCNNProject/Processed_CrackDataset/
+train/
+train/Crack
+train/NoCrack
+/home/pratik-narule/Python-Data-Science/Deep Learning/MarvellousCNNProject/Processed_CrackDataset/validation/Crack
+Deep Learning/MarvellousCNNProject/Processed_CrackDataset/validation/NoCrack
+validation/
+validation/Crack/
+validation/NoCrack/
+test/
